@@ -1,7 +1,1 @@
-First go to config.json and put ur bot token and prefix there
-Then go to server.js and at the last line put ur bot token there also
-
-
-WARNING-
-
-DONT REVEAL UR BOT TOKEN TO ANYONE BCZ IF SOMEONE GETS UR TOKEN THEN ANYONE CAN RAID DISCORD SERVER WITH IT
+Go to server.jsand put ur bot token and prefix there and then run the bot using node server.js
