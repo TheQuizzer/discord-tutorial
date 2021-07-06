@@ -5,6 +5,7 @@ const { CanvasSenpai } = require("canvas-senpai")
 const canva = new CanvasSenpai();
 const db = require("quick.db"); 
 
+const discord = require("discord.js");
 const client = new discord.Client({
  
   disableEveryone: false
